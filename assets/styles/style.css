@@ -1,0 +1,26 @@
+#jumbo {
+    text-align: center;
+    color: white;
+    background-color: rgb(214, 202, 202);
+    margin-top: 10px;
+}
+
+#schedule-header {
+    text-align: center;
+    color: white;
+    background-color: rgb(214, 202, 202);
+}
+
+#add-train-header {
+    text-align: center;
+    color: white;
+    background-color: rgb(214, 202, 202);
+}
+
+#add-train-btn {
+    background-color: rgb(214, 202, 202);
+}
+
+button:hover {
+    box-shadow: 0 0 3pt 2pt red;
+}
